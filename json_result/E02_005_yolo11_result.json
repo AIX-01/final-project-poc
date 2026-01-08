@@ -1,0 +1,4953 @@
+{
+    "summary": {
+        "total_frames_analyzed": 549,
+        "fall_detected": true,
+        "fall_duration_seconds": 9.67,
+        "fall_frame_count": 29,
+        "video_fps": 30.0,
+        "analysis_fps": 3
+    },
+    "frames": [
+        {
+            "timestamp": 0.333,
+            "frame": 10,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.7188000082969666,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 0.667,
+            "frame": 20,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.2815000116825104,
+            "aspect_ratio": 0.6855999827384949,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 1.0,
+            "frame": 30,
+            "danger_score": 0.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 0.25920000672340393,
+            "aspect_ratio": 0.7188000082969666,
+            "description": "사람 빠르게 움직이거나 자세 낮아짐."
+        },
+        {
+            "timestamp": 1.333,
+            "frame": 40,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 1.667,
+            "frame": 50,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 2.0,
+            "frame": 60,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 2.333,
+            "frame": 70,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 2.667,
+            "frame": 80,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 3.0,
+            "frame": 90,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 3.333,
+            "frame": 100,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 3.667,
+            "frame": 110,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 4.0,
+            "frame": 120,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 4.333,
+            "frame": 130,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 4.667,
+            "frame": 140,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 5.0,
+            "frame": 150,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 5.333,
+            "frame": 160,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 5.667,
+            "frame": 170,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 6.0,
+            "frame": 180,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 6.333,
+            "frame": 190,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 6.667,
+            "frame": 200,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 7.0,
+            "frame": 210,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 7.333,
+            "frame": 220,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 7.667,
+            "frame": 230,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 8.0,
+            "frame": 240,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 8.333,
+            "frame": 250,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 8.667,
+            "frame": 260,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 9.0,
+            "frame": 270,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 9.333,
+            "frame": 280,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 9.667,
+            "frame": 290,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 10.0,
+            "frame": 300,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 10.333,
+            "frame": 310,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 10.667,
+            "frame": 320,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 11.0,
+            "frame": 330,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 11.333,
+            "frame": 340,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 11.667,
+            "frame": 350,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 12.0,
+            "frame": 360,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 12.333,
+            "frame": 370,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 12.667,
+            "frame": 380,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 13.0,
+            "frame": 390,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 13.333,
+            "frame": 400,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 13.667,
+            "frame": 410,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 14.0,
+            "frame": 420,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 14.333,
+            "frame": 430,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 14.667,
+            "frame": 440,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 15.0,
+            "frame": 450,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 15.333,
+            "frame": 460,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 15.667,
+            "frame": 470,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 16.0,
+            "frame": 480,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 16.333,
+            "frame": 490,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 16.667,
+            "frame": 500,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 17.0,
+            "frame": 510,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 17.333,
+            "frame": 520,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 17.667,
+            "frame": 530,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 18.0,
+            "frame": 540,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 18.333,
+            "frame": 550,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 18.667,
+            "frame": 560,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 19.0,
+            "frame": 570,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 19.333,
+            "frame": 580,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 19.667,
+            "frame": 590,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 20.0,
+            "frame": 600,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 20.333,
+            "frame": 610,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 20.667,
+            "frame": 620,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 21.0,
+            "frame": 630,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 21.333,
+            "frame": 640,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 21.667,
+            "frame": 650,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 22.0,
+            "frame": 660,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 22.333,
+            "frame": 670,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 22.667,
+            "frame": 680,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 23.0,
+            "frame": 690,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 23.333,
+            "frame": 700,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 23.667,
+            "frame": 710,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 24.0,
+            "frame": 720,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 24.333,
+            "frame": 730,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 24.667,
+            "frame": 740,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 25.0,
+            "frame": 750,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 25.333,
+            "frame": 760,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 25.667,
+            "frame": 770,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 26.0,
+            "frame": 780,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 26.333,
+            "frame": 790,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 26.667,
+            "frame": 800,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 27.0,
+            "frame": 810,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 27.333,
+            "frame": 820,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 27.667,
+            "frame": 830,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 28.0,
+            "frame": 840,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 28.333,
+            "frame": 850,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 28.667,
+            "frame": 860,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 29.0,
+            "frame": 870,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 29.333,
+            "frame": 880,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 29.667,
+            "frame": 890,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 30.0,
+            "frame": 900,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 30.333,
+            "frame": 910,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 30.667,
+            "frame": 920,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 31.0,
+            "frame": 930,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 31.333,
+            "frame": 940,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 31.667,
+            "frame": 950,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 32.0,
+            "frame": 960,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 32.333,
+            "frame": 970,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 32.667,
+            "frame": 980,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 33.0,
+            "frame": 990,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 33.333,
+            "frame": 1000,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 33.667,
+            "frame": 1010,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 34.0,
+            "frame": 1020,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 34.333,
+            "frame": 1030,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 34.667,
+            "frame": 1040,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 35.0,
+            "frame": 1050,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 35.333,
+            "frame": 1060,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 35.667,
+            "frame": 1070,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 36.0,
+            "frame": 1080,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 36.333,
+            "frame": 1090,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 36.667,
+            "frame": 1100,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 37.0,
+            "frame": 1110,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 37.333,
+            "frame": 1120,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 37.667,
+            "frame": 1130,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 38.0,
+            "frame": 1140,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 38.333,
+            "frame": 1150,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 38.667,
+            "frame": 1160,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 39.0,
+            "frame": 1170,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 39.333,
+            "frame": 1180,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 39.667,
+            "frame": 1190,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 40.0,
+            "frame": 1200,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 40.333,
+            "frame": 1210,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 40.667,
+            "frame": 1220,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 41.0,
+            "frame": 1230,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 41.333,
+            "frame": 1240,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 41.667,
+            "frame": 1250,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 42.0,
+            "frame": 1260,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 42.333,
+            "frame": 1270,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 42.667,
+            "frame": 1280,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 43.0,
+            "frame": 1290,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 43.333,
+            "frame": 1300,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 43.667,
+            "frame": 1310,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 44.0,
+            "frame": 1320,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 44.333,
+            "frame": 1330,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 44.667,
+            "frame": 1340,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 45.0,
+            "frame": 1350,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 45.333,
+            "frame": 1360,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 45.667,
+            "frame": 1370,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 46.0,
+            "frame": 1380,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 46.333,
+            "frame": 1390,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 46.667,
+            "frame": 1400,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 47.0,
+            "frame": 1410,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 47.333,
+            "frame": 1420,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 47.667,
+            "frame": 1430,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 48.0,
+            "frame": 1440,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 48.333,
+            "frame": 1450,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 48.667,
+            "frame": 1460,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 49.0,
+            "frame": 1470,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 49.333,
+            "frame": 1480,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 49.667,
+            "frame": 1490,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 50.0,
+            "frame": 1500,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 50.333,
+            "frame": 1510,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 50.667,
+            "frame": 1520,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 51.0,
+            "frame": 1530,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 51.333,
+            "frame": 1540,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 51.667,
+            "frame": 1550,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 52.0,
+            "frame": 1560,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 52.333,
+            "frame": 1570,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 52.667,
+            "frame": 1580,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 53.0,
+            "frame": 1590,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 53.333,
+            "frame": 1600,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 53.667,
+            "frame": 1610,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 54.0,
+            "frame": 1620,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 54.333,
+            "frame": 1630,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 54.667,
+            "frame": 1640,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 55.0,
+            "frame": 1650,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 55.333,
+            "frame": 1660,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 55.667,
+            "frame": 1670,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 56.0,
+            "frame": 1680,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 56.333,
+            "frame": 1690,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 56.667,
+            "frame": 1700,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 57.0,
+            "frame": 1710,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 57.333,
+            "frame": 1720,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 57.667,
+            "frame": 1730,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 58.0,
+            "frame": 1740,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 58.333,
+            "frame": 1750,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 58.667,
+            "frame": 1760,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 59.0,
+            "frame": 1770,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 59.333,
+            "frame": 1780,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 59.667,
+            "frame": 1790,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 60.0,
+            "frame": 1800,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 60.333,
+            "frame": 1810,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 60.667,
+            "frame": 1820,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 61.0,
+            "frame": 1830,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 61.333,
+            "frame": 1840,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 61.667,
+            "frame": 1850,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 62.0,
+            "frame": 1860,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 62.333,
+            "frame": 1870,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 62.667,
+            "frame": 1880,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 63.0,
+            "frame": 1890,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -2.2681000232696533,
+            "aspect_ratio": 0.4577000141143799,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 63.333,
+            "frame": 1900,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -3.5483999252319336,
+            "aspect_ratio": 0.4050000011920929,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 63.667,
+            "frame": 1910,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 64.0,
+            "frame": 1920,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 64.333,
+            "frame": 1930,
+            "danger_score": 42.279998779296875,
+            "state": "누움 (Lying Down)",
+            "velocity": -5.268700122833252,
+            "aspect_ratio": 1.409500002861023,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 64.667,
+            "frame": 1940,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 65.0,
+            "frame": 1950,
+            "danger_score": 48.189998626708984,
+            "state": "누움 (Lying Down)",
+            "velocity": -0.11110000312328339,
+            "aspect_ratio": 1.6061999797821045,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 65.333,
+            "frame": 1960,
+            "danger_score": 26.190000534057617,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -14.821999549865723,
+            "aspect_ratio": 0.8729000091552734,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 65.667,
+            "frame": 1970,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 66.0,
+            "frame": 1980,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 66.333,
+            "frame": 1990,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 66.667,
+            "frame": 2000,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 67.0,
+            "frame": 2010,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 67.333,
+            "frame": 2020,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 67.667,
+            "frame": 2030,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 68.0,
+            "frame": 2040,
+            "danger_score": 78.98999786376953,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 15.759300231933594,
+            "aspect_ratio": 0.9664000272750854,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 68.333,
+            "frame": 2050,
+            "danger_score": 24.5,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.3188999891281128,
+            "aspect_ratio": 0.8166999816894531,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 68.667,
+            "frame": 2060,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.13619999587535858,
+            "aspect_ratio": 0.7901999950408936,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 69.0,
+            "frame": 2070,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.6299999952316284,
+            "aspect_ratio": 0.5703999996185303,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 69.333,
+            "frame": 2080,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.8292999863624573,
+            "aspect_ratio": 0.5720000267028809,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 69.667,
+            "frame": 2090,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -1.1582000255584717,
+            "aspect_ratio": 0.46880000829696655,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 70.0,
+            "frame": 2100,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.6330999732017517,
+            "aspect_ratio": 0.4975999891757965,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 70.333,
+            "frame": 2110,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.22499999403953552,
+            "aspect_ratio": 0.5630999803543091,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 70.667,
+            "frame": 2120,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 71.0,
+            "frame": 2130,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 71.333,
+            "frame": 2140,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 71.667,
+            "frame": 2150,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 72.0,
+            "frame": 2160,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 72.333,
+            "frame": 2170,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 72.667,
+            "frame": 2180,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 73.0,
+            "frame": 2190,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 3.56030011177063,
+            "aspect_ratio": 0.6140999794006348,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 73.333,
+            "frame": 2200,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 73.667,
+            "frame": 2210,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 74.0,
+            "frame": 2220,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 74.333,
+            "frame": 2230,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 74.667,
+            "frame": 2240,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 75.0,
+            "frame": 2250,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 75.333,
+            "frame": 2260,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 75.667,
+            "frame": 2270,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -4.621500015258789,
+            "aspect_ratio": 0.5936999917030334,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 76.0,
+            "frame": 2280,
+            "danger_score": 15.069999694824219,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 0.3767000138759613,
+            "aspect_ratio": 0.6194999814033508,
+            "description": "사람 빠르게 움직이거나 자세 낮아짐."
+        },
+        {
+            "timestamp": 76.333,
+            "frame": 2290,
+            "danger_score": 0.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 0.2619999945163727,
+            "aspect_ratio": 0.5924000144004822,
+            "description": "사람 빠르게 움직이거나 자세 낮아짐."
+        },
+        {
+            "timestamp": 76.667,
+            "frame": 2300,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 5.772600173950195,
+            "aspect_ratio": 0.32679998874664307,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 77.0,
+            "frame": 2310,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -5.600200176239014,
+            "aspect_ratio": 0.439300000667572,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 77.333,
+            "frame": 2320,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 77.667,
+            "frame": 2330,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 78.0,
+            "frame": 2340,
+            "danger_score": 77.94999694824219,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 15.771699905395508,
+            "aspect_ratio": 0.9318000078201294,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 78.333,
+            "frame": 2350,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 78.667,
+            "frame": 2360,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 79.0,
+            "frame": 2370,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 79.333,
+            "frame": 2380,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -11.756500244140625,
+            "aspect_ratio": 0.3709000051021576,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 79.667,
+            "frame": 2390,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 2.367500066757202,
+            "aspect_ratio": 0.42320001125335693,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 80.0,
+            "frame": 2400,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -6.00439977645874,
+            "aspect_ratio": 0.40220001339912415,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 80.333,
+            "frame": 2410,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 15.393500328063965,
+            "aspect_ratio": 0.6753000020980835,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 80.667,
+            "frame": 2420,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 81.0,
+            "frame": 2430,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 81.333,
+            "frame": 2440,
+            "danger_score": 27.610000610351562,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -11.340499877929688,
+            "aspect_ratio": 0.9203000068664551,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 81.667,
+            "frame": 2450,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 82.0,
+            "frame": 2460,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 82.333,
+            "frame": 2470,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 82.667,
+            "frame": 2480,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 83.0,
+            "frame": 2490,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 83.333,
+            "frame": 2500,
+            "danger_score": 28.799999237060547,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 0.2395000010728836,
+            "aspect_ratio": 0.9599000215530396,
+            "description": "사람 빠르게 움직이거나 자세 낮아짐."
+        },
+        {
+            "timestamp": 83.667,
+            "frame": 2510,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 84.0,
+            "frame": 2520,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 84.333,
+            "frame": 2530,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -3.326900005340576,
+            "aspect_ratio": 0.4742000102996826,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 84.667,
+            "frame": 2540,
+            "danger_score": 79.87999725341797,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 3.171999931335449,
+            "aspect_ratio": 0.9961000084877014,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 85.0,
+            "frame": 2550,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 85.333,
+            "frame": 2560,
+            "danger_score": 47.599998474121094,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 1.190000057220459,
+            "aspect_ratio": 0.4074000120162964,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 85.667,
+            "frame": 2570,
+            "danger_score": 42.95000076293945,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 1.073699951171875,
+            "aspect_ratio": 0.42809998989105225,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 86.0,
+            "frame": 2580,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 86.333,
+            "frame": 2590,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 86.667,
+            "frame": 2600,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -6.229599952697754,
+            "aspect_ratio": 0.36160001158714294,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 87.0,
+            "frame": 2610,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 87.333,
+            "frame": 2620,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 87.667,
+            "frame": 2630,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 88.0,
+            "frame": 2640,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.3199000060558319,
+            "aspect_ratio": 0.398499995470047,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 88.333,
+            "frame": 2650,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.12729999423027039,
+            "aspect_ratio": 0.4025999903678894,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 88.667,
+            "frame": 2660,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.1054999977350235,
+            "aspect_ratio": 0.4023999869823456,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 89.0,
+            "frame": 2670,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.1770000010728836,
+            "aspect_ratio": 0.4020000100135803,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 89.333,
+            "frame": 2680,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.10450000315904617,
+            "aspect_ratio": 0.36059999465942383,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 89.667,
+            "frame": 2690,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.045499999076128006,
+            "aspect_ratio": 0.328000009059906,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 90.0,
+            "frame": 2700,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 90.333,
+            "frame": 2710,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 90.667,
+            "frame": 2720,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 91.0,
+            "frame": 2730,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 91.333,
+            "frame": 2740,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 91.667,
+            "frame": 2750,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 92.0,
+            "frame": 2760,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 92.333,
+            "frame": 2770,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 92.667,
+            "frame": 2780,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 93.0,
+            "frame": 2790,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 93.333,
+            "frame": 2800,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 93.667,
+            "frame": 2810,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 94.0,
+            "frame": 2820,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 94.333,
+            "frame": 2830,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 94.667,
+            "frame": 2840,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 95.0,
+            "frame": 2850,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 95.333,
+            "frame": 2860,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 95.667,
+            "frame": 2870,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 96.0,
+            "frame": 2880,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 96.333,
+            "frame": 2890,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 96.667,
+            "frame": 2900,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 97.0,
+            "frame": 2910,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 97.333,
+            "frame": 2920,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 97.667,
+            "frame": 2930,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 98.0,
+            "frame": 2940,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 98.333,
+            "frame": 2950,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 98.667,
+            "frame": 2960,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 99.0,
+            "frame": 2970,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 99.333,
+            "frame": 2980,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 99.667,
+            "frame": 2990,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 100.0,
+            "frame": 3000,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 100.333,
+            "frame": 3010,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 100.667,
+            "frame": 3020,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 101.0,
+            "frame": 3030,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 101.333,
+            "frame": 3040,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 101.667,
+            "frame": 3050,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 102.0,
+            "frame": 3060,
+            "danger_score": 83.61000061035156,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 4.035600185394287,
+            "aspect_ratio": 1.1204999685287476,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 102.333,
+            "frame": 3070,
+            "danger_score": 32.099998474121094,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.24310000240802765,
+            "aspect_ratio": 1.0699000358581543,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 102.667,
+            "frame": 3080,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 103.0,
+            "frame": 3090,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 103.333,
+            "frame": 3100,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 103.667,
+            "frame": 3110,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 104.0,
+            "frame": 3120,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 104.333,
+            "frame": 3130,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 104.667,
+            "frame": 3140,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 105.0,
+            "frame": 3150,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 105.333,
+            "frame": 3160,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 105.667,
+            "frame": 3170,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 106.0,
+            "frame": 3180,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 106.333,
+            "frame": 3190,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 106.667,
+            "frame": 3200,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 107.0,
+            "frame": 3210,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 107.333,
+            "frame": 3220,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 107.667,
+            "frame": 3230,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 108.0,
+            "frame": 3240,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 108.333,
+            "frame": 3250,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 108.667,
+            "frame": 3260,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 109.0,
+            "frame": 3270,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 109.333,
+            "frame": 3280,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 109.667,
+            "frame": 3290,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 110.0,
+            "frame": 3300,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 110.333,
+            "frame": 3310,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 110.667,
+            "frame": 3320,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 111.0,
+            "frame": 3330,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 111.333,
+            "frame": 3340,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 111.667,
+            "frame": 3350,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 112.0,
+            "frame": 3360,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 112.333,
+            "frame": 3370,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 112.667,
+            "frame": 3380,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 113.0,
+            "frame": 3390,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 113.333,
+            "frame": 3400,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 113.667,
+            "frame": 3410,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 114.0,
+            "frame": 3420,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 114.333,
+            "frame": 3430,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 114.667,
+            "frame": 3440,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 115.0,
+            "frame": 3450,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 115.333,
+            "frame": 3460,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 115.667,
+            "frame": 3470,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 116.0,
+            "frame": 3480,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 116.333,
+            "frame": 3490,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 116.667,
+            "frame": 3500,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 117.0,
+            "frame": 3510,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 117.333,
+            "frame": 3520,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 117.667,
+            "frame": 3530,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 118.0,
+            "frame": 3540,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 118.333,
+            "frame": 3550,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 118.667,
+            "frame": 3560,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 119.0,
+            "frame": 3570,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 119.333,
+            "frame": 3580,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 119.667,
+            "frame": 3590,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 120.0,
+            "frame": 3600,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 120.333,
+            "frame": 3610,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 120.667,
+            "frame": 3620,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 121.0,
+            "frame": 3630,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 121.333,
+            "frame": 3640,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 121.667,
+            "frame": 3650,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 122.0,
+            "frame": 3660,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 122.333,
+            "frame": 3670,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 122.667,
+            "frame": 3680,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 123.0,
+            "frame": 3690,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 123.333,
+            "frame": 3700,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 123.667,
+            "frame": 3710,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 124.0,
+            "frame": 3720,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 124.333,
+            "frame": 3730,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 124.667,
+            "frame": 3740,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 125.0,
+            "frame": 3750,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 125.333,
+            "frame": 3760,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 125.667,
+            "frame": 3770,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 126.0,
+            "frame": 3780,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 126.333,
+            "frame": 3790,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 126.667,
+            "frame": 3800,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 127.0,
+            "frame": 3810,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 127.333,
+            "frame": 3820,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 127.667,
+            "frame": 3830,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 128.0,
+            "frame": 3840,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 128.333,
+            "frame": 3850,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 128.667,
+            "frame": 3860,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 129.0,
+            "frame": 3870,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 129.333,
+            "frame": 3880,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 129.667,
+            "frame": 3890,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 130.0,
+            "frame": 3900,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 130.333,
+            "frame": 3910,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 130.667,
+            "frame": 3920,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 131.0,
+            "frame": 3930,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 2.595599889755249,
+            "aspect_ratio": 0.6869999766349792,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 131.333,
+            "frame": 3940,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 6.11929988861084,
+            "aspect_ratio": 0.4964999854564667,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 131.667,
+            "frame": 3950,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -7.81689977645874,
+            "aspect_ratio": 0.3257000148296356,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 132.0,
+            "frame": 3960,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -5.3566999435424805,
+            "aspect_ratio": 0.3206999897956848,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 132.333,
+            "frame": 3970,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -2.933799982070923,
+            "aspect_ratio": 0.3248000144958496,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 132.667,
+            "frame": 3980,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 133.0,
+            "frame": 3990,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 133.333,
+            "frame": 4000,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 133.667,
+            "frame": 4010,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 134.0,
+            "frame": 4020,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 134.333,
+            "frame": 4030,
+            "danger_score": 81.41000366210938,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 7.520400047302246,
+            "aspect_ratio": 1.0469000339508057,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 134.667,
+            "frame": 4040,
+            "danger_score": 30.350000381469727,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.04600000008940697,
+            "aspect_ratio": 1.0117000341415405,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 135.0,
+            "frame": 4050,
+            "danger_score": 30.68000030517578,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": 0.02810000069439411,
+            "aspect_ratio": 1.0226999521255493,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 135.333,
+            "frame": 4060,
+            "danger_score": 28.75,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.2485000044107437,
+            "aspect_ratio": 0.958299994468689,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 135.667,
+            "frame": 4070,
+            "danger_score": 26.6299991607666,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.12139999866485596,
+            "aspect_ratio": 0.8877000212669373,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 136.0,
+            "frame": 4080,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 136.333,
+            "frame": 4090,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 136.667,
+            "frame": 4100,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 137.0,
+            "frame": 4110,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 137.333,
+            "frame": 4120,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 137.667,
+            "frame": 4130,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 138.0,
+            "frame": 4140,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 138.333,
+            "frame": 4150,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 138.667,
+            "frame": 4160,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 139.0,
+            "frame": 4170,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 139.333,
+            "frame": 4180,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 139.667,
+            "frame": 4190,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 140.0,
+            "frame": 4200,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 140.333,
+            "frame": 4210,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 140.667,
+            "frame": 4220,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 141.0,
+            "frame": 4230,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -1.3977999687194824,
+            "aspect_ratio": 0.5834000110626221,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 141.333,
+            "frame": 4240,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 3.172100067138672,
+            "aspect_ratio": 0.5364000201225281,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 141.667,
+            "frame": 4250,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 142.0,
+            "frame": 4260,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 142.333,
+            "frame": 4270,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 142.667,
+            "frame": 4280,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 143.0,
+            "frame": 4290,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 143.333,
+            "frame": 4300,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 143.667,
+            "frame": 4310,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 144.0,
+            "frame": 4320,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 144.333,
+            "frame": 4330,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 144.667,
+            "frame": 4340,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 145.0,
+            "frame": 4350,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 145.333,
+            "frame": 4360,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 145.667,
+            "frame": 4370,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 3.08489990234375,
+            "aspect_ratio": 0.5834000110626221,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 146.0,
+            "frame": 4380,
+            "danger_score": 44.06999969482422,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 1.1017999649047852,
+            "aspect_ratio": 0.5547999739646912,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 146.333,
+            "frame": 4390,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 1.3372000455856323,
+            "aspect_ratio": 0.5088000297546387,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 146.667,
+            "frame": 4400,
+            "danger_score": 50.0,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 2.3231000900268555,
+            "aspect_ratio": 0.6902999877929688,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 147.0,
+            "frame": 4410,
+            "danger_score": 24.440000534057617,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 0.21400000154972076,
+            "aspect_ratio": 0.8144999742507935,
+            "description": "사람 빠르게 움직이거나 자세 낮아짐."
+        },
+        {
+            "timestamp": 147.333,
+            "frame": 4420,
+            "danger_score": 79.08999633789062,
+            "state": "쓰러짐 (Falling)",
+            "velocity": 1.2041000127792358,
+            "aspect_ratio": 1.0307999849319458,
+            "description": "위험 감지됨. 사람 쓰러짐 또는 급격한 넘어짐 관측됨."
+        },
+        {
+            "timestamp": 147.667,
+            "frame": 4430,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 148.0,
+            "frame": 4440,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 148.333,
+            "frame": 4450,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 148.667,
+            "frame": 4460,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 149.0,
+            "frame": 4470,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 149.333,
+            "frame": 4480,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 149.667,
+            "frame": 4490,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 150.0,
+            "frame": 4500,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 150.333,
+            "frame": 4510,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 150.667,
+            "frame": 4520,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 151.0,
+            "frame": 4530,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 151.333,
+            "frame": 4540,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 151.667,
+            "frame": 4550,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 152.0,
+            "frame": 4560,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 152.333,
+            "frame": 4570,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 152.667,
+            "frame": 4580,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 153.0,
+            "frame": 4590,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 153.333,
+            "frame": 4600,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 153.667,
+            "frame": 4610,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 154.0,
+            "frame": 4620,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 154.333,
+            "frame": 4630,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 154.667,
+            "frame": 4640,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 155.0,
+            "frame": 4650,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 155.333,
+            "frame": 4660,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 155.667,
+            "frame": 4670,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 156.0,
+            "frame": 4680,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 156.333,
+            "frame": 4690,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 156.667,
+            "frame": 4700,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 157.0,
+            "frame": 4710,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 157.333,
+            "frame": 4720,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 157.667,
+            "frame": 4730,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 158.0,
+            "frame": 4740,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 158.333,
+            "frame": 4750,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 158.667,
+            "frame": 4760,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 159.0,
+            "frame": 4770,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 159.333,
+            "frame": 4780,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 159.667,
+            "frame": 4790,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 160.0,
+            "frame": 4800,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 160.333,
+            "frame": 4810,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 160.667,
+            "frame": 4820,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 161.0,
+            "frame": 4830,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 161.333,
+            "frame": 4840,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 161.667,
+            "frame": 4850,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 162.0,
+            "frame": 4860,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 162.333,
+            "frame": 4870,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 162.667,
+            "frame": 4880,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 163.0,
+            "frame": 4890,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 163.333,
+            "frame": 4900,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 163.667,
+            "frame": 4910,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 164.0,
+            "frame": 4920,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 164.333,
+            "frame": 4930,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 164.667,
+            "frame": 4940,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 165.0,
+            "frame": 4950,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 165.333,
+            "frame": 4960,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 165.667,
+            "frame": 4970,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 166.0,
+            "frame": 4980,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 166.333,
+            "frame": 4990,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 166.667,
+            "frame": 5000,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 167.0,
+            "frame": 5010,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 167.333,
+            "frame": 5020,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 167.667,
+            "frame": 5030,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 168.0,
+            "frame": 5040,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 168.333,
+            "frame": 5050,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 168.667,
+            "frame": 5060,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 169.0,
+            "frame": 5070,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 169.333,
+            "frame": 5080,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 169.667,
+            "frame": 5090,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 170.0,
+            "frame": 5100,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 170.333,
+            "frame": 5110,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 170.667,
+            "frame": 5120,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 171.0,
+            "frame": 5130,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 171.333,
+            "frame": 5140,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 171.667,
+            "frame": 5150,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 172.0,
+            "frame": 5160,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 172.333,
+            "frame": 5170,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 172.667,
+            "frame": 5180,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 173.0,
+            "frame": 5190,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 173.333,
+            "frame": 5200,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 173.667,
+            "frame": 5210,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 174.0,
+            "frame": 5220,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 174.333,
+            "frame": 5230,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 174.667,
+            "frame": 5240,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 175.0,
+            "frame": 5250,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 175.333,
+            "frame": 5260,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 175.667,
+            "frame": 5270,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 176.0,
+            "frame": 5280,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 176.333,
+            "frame": 5290,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 176.667,
+            "frame": 5300,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 177.0,
+            "frame": 5310,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 177.333,
+            "frame": 5320,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 177.667,
+            "frame": 5330,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 178.0,
+            "frame": 5340,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 178.333,
+            "frame": 5350,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 178.667,
+            "frame": 5360,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 179.0,
+            "frame": 5370,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 179.333,
+            "frame": 5380,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 179.667,
+            "frame": 5390,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -2.0399999618530273,
+            "aspect_ratio": 0.576200008392334,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 180.0,
+            "frame": 5400,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -2.3127999305725098,
+            "aspect_ratio": 0.4627000093460083,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 180.333,
+            "frame": 5410,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -1.9507999420166016,
+            "aspect_ratio": 0.4625999927520752,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 180.667,
+            "frame": 5420,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -1.1756999492645264,
+            "aspect_ratio": 0.3671000003814697,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 181.0,
+            "frame": 5430,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -1.4362000226974487,
+            "aspect_ratio": 0.4397999942302704,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 181.333,
+            "frame": 5440,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -1.2680000066757202,
+            "aspect_ratio": 0.4449000060558319,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 181.667,
+            "frame": 5450,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -0.6453999876976013,
+            "aspect_ratio": 0.3962000012397766,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 182.0,
+            "frame": 5460,
+            "danger_score": 0.0,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -1.409000039100647,
+            "aspect_ratio": 0.4074999988079071,
+            "description": "특이 사항 없음. 평상시 상태임."
+        },
+        {
+            "timestamp": 182.333,
+            "frame": 5470,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 182.667,
+            "frame": 5480,
+            "danger_score": 0.0,
+            "state": "알 수 없음 (Unknown)",
+            "velocity": 0.0,
+            "aspect_ratio": 0.0,
+            "description": "사람이 감지되지 않았습니다."
+        },
+        {
+            "timestamp": 183.0,
+            "frame": 5490,
+            "danger_score": 26.40999984741211,
+            "state": "서있음/앉음 (Standing/Sitting)",
+            "velocity": -2.684999942779541,
+            "aspect_ratio": 0.8802000284194946,
+            "description": "특이 사항 없음. 평상시 상태임."
+        }
+    ]
+}
